@@ -1,10 +1,8 @@
-Etude et comparaison de 2 groupes facebook (Liste BDE Poly'eagles et Razmotech)
+Étude et comparaison de 2 groupes facebook (Liste BDE Poly'eagles et Razmotech)
 ===============================================================================
 
->contributeurs:<br>
+>contributeur:<br>
 >Alexandre Huet<br>
-
-
 >IMA3 Polytech Lille<br>
 
 Sommaire:
@@ -26,9 +24,11 @@ Sommaire:
 ---------------
 
   L'objectif de ce projet est de charger 2 fichiers en format YAML dans une structure de donnée choisi par nos soins
-et de les utiliser pour traiter des requêtes que pourra exiger l'utilisateur.
+et de les utiliser pour traiter des requêtes que pourra exiger l'utilisateur.<br>
+
 Nous pouvons ainsi compter le nombre de post Facebook de chaque liste, le nombre total de likes obtenus. Nous renvoyons les posts likés par une personne choisi par l'utilisateur. Nous avons aussi la possibilitée de lister et de compter les personnes qui ont liké au moins 1 post dans une liste ou ceux qui ont liké des posts dans les 2 listes.
-  Pour finir, nous avons la possibilité d'effectuer un bilan des stats de chaque liste et en déduire laquelle des 2 listes a été le mieux apprécié sur les réseaux sociaux.
+<br>
+Pour finir, nous avons la possibilité d'effectuer un bilan des stats de chaque liste et en déduire laquelle des 2 listes a été le mieux apprécié sur les réseaux sociaux.
 
 
 
